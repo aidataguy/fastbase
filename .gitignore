@@ -1,0 +1,4 @@
+.env
+app/__pycache__
+manufacturer/__pycache__
+models/__pycache__
